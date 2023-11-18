@@ -308,8 +308,8 @@ right:0px;
 }
 .flex-caption {zoom: 1;
 bottom: 0px; background-color:rgba(255, 255, 255, 0.7); color: #fff; margin: 0; padding: auto ; position: absolute; left: 20%; }
-.flex-caption h3 {color: #000; font-size:40px; letter-spacing: 1px; text-transform: uppercase; width:auto; height:auto; margin:auto; }
-.flex-caption p {margin: 0 0 20px; color: #000;font-size:20px!important; width:fit-content;}
+.flex-caption h3 {color: #000; font-size:auto; letter-spacing: 1px; text-transform: uppercase; width:auto; height:auto; margin:auto; }
+.flex-caption p {margin: 0 0 20px; color: #000;font-size:auto!important; width:fit-content;}
 .skill-home{
 margin-bottom:50px;
 }
